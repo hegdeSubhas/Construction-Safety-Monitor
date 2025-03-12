@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartSite - Climate Safety Monitor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>SmartSite - Construction Safety Monitor</h1>
+    </header>
+    
+    <main>
+        <section class="climate-data">
+            <h2>Current Climate Conditions</h2>
+            <div class="data-container">
+                <div class="data-box">Temperature: <span id="temperature">--°C</span></div>
+                <div class="data-box">Humidity: <span id="humidity">--%</span></div>
+                <div class="data-box">Air Quality Index: <span id="aqi">--</span></div>
+                <div class="data-box">Wind Speed: <span id="wind-speed">-- km/h</span></div>
+                <div class="data-box">Weather: <span id="weather">--</span></div>
+                <div class="data-box">UV Index: <span id="uv-index">--</span></div>
+            </div>
+        </section>
+
+        <section class="notifications">
+            <h2>Safety Status</h2>
+            <p id="safety-message">Checking conditions...</p>
+        </section>
+
+        <button id="emergency-button">Report Emergency</button>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

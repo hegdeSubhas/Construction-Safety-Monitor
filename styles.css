@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #004466;
+    color: white;
+    padding: 15px;
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+.climate-data, .notifications {
+    background: white;
+    margin: 20px auto;
+    padding: 15px;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.data-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+
+.data-box {
+    background: #0088cc;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.notifications {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#safety-message {
+    color: red;
+}
+
+#emergency-button {
+    background: red;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1.2em;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#emergency-button:hover {
+    background: darkred;
+}
