@@ -3,7 +3,7 @@
 SmartSite is a **real-time safety monitoring system** designed for **construction sites**. It helps ensure worker well-being by continuously tracking **environmental and climate conditions** such as temperature, humidity, air quality, UV index, and wind speed. Based on these readings, SmartSite automatically determines the **current safety status** and displays alerts when conditions may pose risks.
 
 
-Take a look : 
+Take a look : https://hegdesubhas.github.io/Construction-Safety-Monitor/
 
 ---
 
