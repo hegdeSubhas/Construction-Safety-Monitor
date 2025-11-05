@@ -32,8 +32,6 @@ Take a look :
 |------------------|--------------|
 | ![Dashboard UI](preview.png) | Displays real-time safety indication |
 
-> *(Add your actual screenshot as `preview.png` in repo.)*
-
 ---
 
 ## 🔧 Tech Stack
