@@ -24,16 +24,6 @@ Take a look : https://hegdesubhas.github.io/Construction-Safety-Monitor/
 - 💻 **User-Friendly Dashboard**  
   Clean and responsive UI for desktop or mobile use.
 
----
-
-## 🖥️ Preview (Dashboard UI)
-
-| Climate Dashboard | Safety Status |
-|------------------|--------------|
-| ![Dashboard UI](preview.png) | Displays real-time safety indication |
-
----
-
 ## 🔧 Tech Stack
 
 | Layer | Technology Used |
